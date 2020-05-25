@@ -1,0 +1,186 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  font-family: 'Satisfy', cursive;
+  margin: 50px auto 0 auto;
+    color: #77628c;
+  font-size: 6.25rem;
+  padding-top: 20px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #71a0a5;
+  font-size: 2rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #71a0a5;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-width: 10px;
+  width: 10%;
+  border-color: #77628c;
+  margin: 100px auto;
+}
+
+/* *********************** Class Tags ************************** */
+
+a:hover {
+  color: #9582a8;
+}
+
+.about-me {
+  width: auto;
+}
+
+.boat {
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.boat-break {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 6.25rem;
+  bottom: 34.37rem;
+}
+
+.bottom-cloud2 {
+  position: absolute;
+  right: 6.25rem;
+  bottom: 34.37rem;
+}
+
+.bottom-container {
+  background-color: #77628c;
+  position: relative;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+.btn {
+  background-color: #77628c;
+border: none;
+color: white;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 12px;
+margin-bottom: 50px;
+}
+
+.coaster {
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+
+.copyright {
+  color: white;
+  font-size: .7rem;
+}
+
+.footer-link {
+  color: #889d73;
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+  display: inline-block;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.hotel {
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+.hotel-break {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-bottom: 50px;
+}
+
+.in-touch {
+  width: 60%;
+  line-height: 2;
+  margin: auto;
+  padding-bottom:50px;
+}
+
+.intro {
+font-size: 2rem;
+
+}
+
+.jenn {
+  border-radius: 10% / 50%;
+  width: 30%;
+  float: left;
+margin-right: 30px;
+
+}
+
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.middle-top {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.services {
+  width: 65%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  margin: 3rem auto 3rem auto;
+  position: absolute;
+  left: 200px;
+  top: 30px;
+}
+
+.top-cloud2 {
+  margin: 3rem auto 3rem auto;
+  position: absolute;
+  right: 200px;
+  top: 68px;
+}
+
+.top-container {
+  background-color: #acc6aa;
+  position: relative;
+  padding-top: 6.25rem;
+}
